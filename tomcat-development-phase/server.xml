@@ -1,0 +1,14 @@
+
+<!--
+-->
+<Connector
+	connectionTimeout="10000"
+	maxThreads="1024"
+	port="8080"
+	protocol="org.apache.coyote.http11.Http11NioProtocol"
+	redirectPort="8443"
+	address="127.0.0.1"
+/>
+
+
+
